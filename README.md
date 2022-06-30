@@ -1,7 +1,7 @@
 # Berkay Karlık
 
 Hello there,
-My name is Berkay and I'm a computer engineer. Apart my day job I do side projets and then add them here to improve myself.
+My name is Berkay and I'm a computer engineer. Apart my day job I do side projects and then add them here to improve myself.
 
 [Visit My Blog](https://berkaykarlik.github.io/berkayKarlik/)
 
