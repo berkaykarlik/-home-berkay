@@ -3,7 +3,7 @@
 Hello there,
 My name is Berkay and I'm a computer engineer. Apart my day job I do side projects and then add them here to improve myself.
 
-[Visit My Blog](https://berkaykarlik.github.io/berkayKarlik/)
+[Visit My Blog](https://berkaykarlik.github.io/)
 
 [![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayKarlik&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
